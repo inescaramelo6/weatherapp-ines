@@ -1,0 +1,112 @@
+.container {
+    margin-top: 30px;
+    padding: 35px 35px 35px 35px;
+    border-radius: 25px;
+    align-items: center;
+    max-width: 500px;
+    margin-bottom: 25px;
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+  }
+  .row {
+    padding: 35px;
+  }
+  .search-bar {
+    display: flex;
+    align-items: center;
+  }
+  .btn {
+    display: inline;
+    width: 70px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    margin-left: 5px;
+    color: white;
+    background: #ff9a9e;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    text-align: left;
+    transition: all 200ms ease-in-out;
+    border-radius: 8px;
+    border: none;
+  }
+  button {
+    display: inline;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    margin-left: 2px;
+    color: white;
+    background: #ff9a9e;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    text-align: center;
+    transition: all 200ms ease-in-out;
+    border-radius: 8px;
+    border: none;
+  }
+  h2,
+  h3 {
+    color: #231d3c;
+    font-size: 20px;
+  }
+  .fa-wind {
+    color: rgb(117, 182, 243);
+    font-size: 50px;
+  }
+  .fa-cloud-showers-heavy {
+    color: rgb(117, 182, 243);
+    font-size: 50px;
+  }
+  
+  .fa-sun {
+    color: rgb(117, 182, 243);
+    font-size: 50px;
+  }
+  .fa-cloud {
+    color: rgb(117, 182, 243);
+    font-size: 50px;
+  }
+  h1 {
+    text-align: center;
+    font-family: "Josefin Slab", serif;
+    font-weight: 900;
+    margin: 0;
+    font-size: 36px;
+    line-height: 48px;
+    color: #595b83;
+  }
+  
+  .celcius-link {
+    font-size: 36px;
+  }
+  
+  .city {
+    font-size: 36px;
+  }
+  
+  .current-temperature {
+    text-align: center;
+    font-family: "Josefin Slab", serif;
+    font-weight: 900;
+    margin: 0;
+    font-size: 36px;
+    line-height: 48px;
+    color: #595b83;
+  }
+  
+  
+  ul {
+    list-style-type: none;
+    text-align: center;
+    padding-top: 15px;
+  }
+  
+  p {
+    text-align: center;
+  }
+  
+  
